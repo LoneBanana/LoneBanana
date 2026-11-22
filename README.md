@@ -17,6 +17,5 @@
 - [Fluid-Dynamics-Simulation-and-Navier-Stokes](https://github.com/LoneBanana/Fluid-Dynamics-Simulation-and-Navier-Stokes): simulating Navier-Stokes blowup with fluid dynamics and machine learning
 - [GSET-ROS-SIMULATION-ROBOT](https://github.com/LoneBanana/GSET-ROS-SIMULATION-ROBOT): differential drive robots simulated with Gazebo, RViz, and ROS
 
-### Coursework
+### Self-Driven Coursework
 - [CSAPP-Lab](https://github.com/LoneBanana/CSAPP-Lab): CS:APP 3e labs
-- [2024-2025-Java-Challenges](https://github.com/LoneBanana/2024-2025-Java-Challenges)
